@@ -5,21 +5,21 @@ A comprehensive, production-ready full-stack Grocery Delivery Application built 
 
 ---
 
-## 🚀 Key Features
+## Key Features
 
-### 🛒 Client Frontend
+### Client Frontend
 - **Product Filtering & Sorting:** Dynamic category filters, price ranges, and multi-option sorting (price, ranking, alphabet).
 - **Persistent Cart System:** Cart data is secured locally and managed via React Context Provider layout.
 - **Dynamic Checkouts:** Multiple step workflows including address validation, card payments (via Stripe), or Cash on Delivery (COD).
 - **Live Order Tracking:** Interactive maps displaying current delivery driver pathways alongside step-by-step progress timelines.
 
-### 🛡️ Admin Dashboard
+### Admin Dashboard
 - **Store Performance Metrics:** Quick views of overall earnings, total user metrics, store items, and out-of-stock items.
 - **Inventory Management:** Full CRUD mechanisms for updating parameters, listings, or declaring stocks empty.
 - **Driver Onboarding & Management:** Dedicated configuration space to control delivery provider records and network statuses.
 - **Order Dispatch Management:** Centralized center to instantly link active orders with available local carriers.
 
-### 🚴 Delivery Partner Ecosystem
+### Delivery Partner Ecosystem
 - **Agent Secure Login:** Independent access walls for active delivery personnel profiles.
 - **Active Task Center:** Overview of processing orders requiring assembly, transport, or dynamic tracking toggles.
 - **Secure Pin Validation:** OTP verification step matching user coordinates prior to marking deliveries completed.
@@ -27,7 +27,7 @@ A comprehensive, production-ready full-stack Grocery Delivery Application built 
 
 ---
 
-## 🛠️ Tech Stack & Packages
+## Tech Stack & Packages
 
 ### Frontend (`/client`)
 - **Core Framework:** React 18, Vite, TypeScript
@@ -50,7 +50,7 @@ A comprehensive, production-ready full-stack Grocery Delivery Application built 
 
 ---
 
-## 📂 Project Architecture
+## Project Architecture
 
 ```text
 grocery-delivery/
